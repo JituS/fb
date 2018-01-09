@@ -16,25 +16,3 @@ function solve(inputNumber, resultCount, prevResult){
 }
 
 console.log(solve(process.argv[2], 0));
-
-
-// 1111
-
-// a 111
-// 	aa 11
-// 		aaa 1
-// 			aaaa
-// 		aak
-// 	ak 1
-// 		aka
-// k 11
-// 	kk 
-// 	ka 1
-// 		kaa
-
-
-// aaaa
-// kaa
-// aka
-// aak
-// kk
